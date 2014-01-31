@@ -1,5 +1,5 @@
-Development environement for OpenERP
-====================================
+Development environement for Open ERP
+=====================================
 
 Use this repo to setup docker: https://github.com/colmsjo/docker.git
 
